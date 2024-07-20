@@ -60,10 +60,10 @@ I'm a junior cross-platform mobile developer.
 <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D5612AQHUtfE_NZiYBQ/article-cover_image-shrink_600_2000/0/1681155201571?e=2147483647&v=beta&t=gU-iBZwXLMnIw61DhAytfuTrSobeQlmeBSM9ixCuDhs" width="36" height="36" alt="RESTful API" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
+<p align="left">
     MyProjects
     
-<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/sync/D4E27AQGlaSXmpq4zBw/articleshare-shrink_160/0/1719757355104?e=1722092400&v=beta&t=OHerdYVtLpxlAk63yU6dQt9wr0R1VMIxEgE0fvklU2w" width="60" height="60" alt="Varemarem" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixM4wPBIpEQyyORhNfOXtvkDnizi9wbB-9Q&s" width="60" height="60" alt="chill with tech" /></a>
+<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/sync/D4E27AQGlaSXmpq4zBw/articleshare-shrink_160/0/1719757355104?e=1722092400&v=beta&t=OHerdYVtLpxlAk63yU6dQt9wr0R1VMIxEgE0fvklU2w" width="100" height="60" alt="Varemarem" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixM4wPBIpEQyyORhNfOXtvkDnizi9wbB-9Q&s" width="100" height="60" alt="chill with tech" /></a>
 </p>
 
 ### Socials
