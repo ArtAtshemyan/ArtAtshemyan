@@ -34,7 +34,7 @@ I'm a junior cross-platform mobile developer.
 <p align="left">
     Cross platform app development frameworks 
     
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4E12AQG9RiCs_cAZSw/article-cover_image-shrink_720_1280/0/1665152305999?e=2147483647&v=beta&t=-2i3EsM1TomCWIFvHMvM25p5N70TolovCSJiSacAcC4" width="36" height="36" alt="React Native" /></a>&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="36" height="36" alt="React Native" /></a>&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
 <p align="left">
