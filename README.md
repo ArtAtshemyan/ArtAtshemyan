@@ -63,7 +63,7 @@ I'm a junior cross-platform mobile developer.
 <p align="left">
     Projects I've worked on
     
-<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/sync/D4E27AQGlaSXmpq4zBw/articleshare-shrink_160/0/1719757355104?e=1722092400&v=beta&t=OHerdYVtLpxlAk63yU6dQt9wr0R1VMIxEgE0fvklU2w" width="100" height="100" alt="Varemarem" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixM4wPBIpEQyyORhNfOXtvkDnizi9wbB-9Q&s" width="100" height="100" alt="chill with tech" /></a>
+<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/sync/D4E27AQGlaSXmpq4zBw/articleshare-shrink_160/0/1719757355104?e=1722092400&v=beta&t=OHerdYVtLpxlAk63yU6dQt9wr0R1VMIxEgE0fvklU2w" width="160" height="84" alt="Varemarem" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixM4wPBIpEQyyORhNfOXtvkDnizi9wbB-9Q&s" width="160" height="84" alt="chill with tech" /></a>
 </p>
 
 ### Socials
