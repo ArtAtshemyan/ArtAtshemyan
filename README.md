@@ -43,7 +43,11 @@ I'm a junior cross-platform mobile developer.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="36" height="36" alt="Canva" /></a>
 </p>
 
-
+<p align="left">
+    Backend cloud
+    
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353735/firebase.svg" width="36" height="36" alt="Figma" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 ### Socials
