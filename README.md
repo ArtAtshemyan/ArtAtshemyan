@@ -13,7 +13,7 @@ I'm a junior cross-platform mobile developer.
 <p align="left">
     Code Editors 
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="IntelliJ IDEA" /></a><a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://vectorseek.com/wp-content/uploads/2023/09/WebStorm-Logo-Vector.svg-.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="IntelliJ IDEA" /></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://vectorseek.com/wp-content/uploads/2023/09/WebStorm-Logo-Vector.svg-.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
 </p>
 
 <p align="left">
