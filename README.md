@@ -32,13 +32,15 @@ I'm a junior cross-platform mobile developer.
 </p>
 
 <p align="left">
-    Cross platform app development frameworks <br>
+    Cross platform app development frameworks 
+    
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="36" height="36" alt="React Native" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
 <p align="left">
     Graphic design software
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="36" height="36" alt="Canva" /></a>
+    
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="36" height="36" alt="Canva" /></a>
 </p>
 
 
