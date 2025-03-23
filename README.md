@@ -5,7 +5,7 @@ I'm a junior cross-platform mobile developer.
 ---------------------------------------------
 
 * 🌍  I'm based in Gyumri
-* ✉️  You can contact me at [atshemyanngmail.com](mailto:atshemyanngmail.com)
+* ✉️  You can contact me at [atshemyann@gmail.com](mailto:atshemyann@gmail.com)
 
 ### Skills
 
@@ -39,7 +39,7 @@ I'm a junior cross-platform mobile developer.
 <p align="left">
     State managements
         
-<a href="https://redux-saga.js.org/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/CHH1saS.png" width="36" height="36" alt="Redux-Saga" /></a>&nbsp;&nbsp;<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;&nbsp;<a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer"><img src="https://bloclibrary.dev/_astro/bloc.DJLDGT9c_1KXLNj.svg" width="36" height="36" alt="Bloc" /></a>&nbsp;&nbsp;<a href="https://chornthorn.github.io/getx-docs/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/strapi/image/upload/v1621261454/logo_vgoldp.png" width="36" height="36" alt="GetX" /></a>
+<a href="https://redux-saga.js.org/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/CHH1saS.png" width="36" height="36" alt="Redux-Saga" /></a>&nbsp;&nbsp;<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;&nbsp;<a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer"><img src="https://bloclibrary.dev/_astro/bloc.DJLDGT9c_Z1Muako.svg" width="36" height="36" alt="Bloc" /></a>&nbsp;&nbsp;<a href="https://chornthorn.github.io/getx-docs/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/strapi/image/upload/v1621261454/logo_vgoldp.png" width="36" height="36" alt="GetX" /></a>
 </p>
 
 <p align="left">
