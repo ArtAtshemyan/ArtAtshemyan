@@ -13,6 +13,7 @@ I'm a junior cross-platform mobile developer.
 <p align="left">
     Code Editors 
 
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/640px-Android_Studio_Logo_2024.svg.png" width="36" height="36" alt="Android Studio" /></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="IntelliJ IDEA" /></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://vectorseek.com/wp-content/uploads/2023/09/WebStorm-Logo-Vector.svg-.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
 </p>
 
