@@ -76,5 +76,5 @@ I'm a junior cross-platform mobile developer.
 <p align="left">
     Technical means
     
-<a href="https://www.apple.com/am/macbook-air/specs/" target="_blank" rel="noreferrer"><img src="https://www.apple.com/v/macbook-air/s/images/specs/13-inch/mba_13_hero__cgrv1gqx437m_large_2x.jpg" width="36" height="36" alt="Apple M3 chip" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.apple.com/am/macbook-air/specs/" target="_blank" rel="noreferrer"><img src="https://static.thairath.co.th/media/4DQpjUtzLUwmJZZSDtKeMEEo2uNvZUG3IpZdsE6jiLDG.jpg" width="100" height="70" alt="Apple M3 chip" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
