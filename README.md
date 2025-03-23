@@ -63,7 +63,7 @@ I'm a junior cross-platform mobile developer.
 <p align="left">
     Projects I've worked on
     
-<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/d9/6f/e9d96fee-29dd-b6f0-60e0-eb020cfa7524/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/246x0w.webp 246w, https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/d9/6f/e9d96fee-29dd-b6f0-60e0-eb020cfa7524/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/217x0w.webp 217w" width="160" height="84" alt="Varemarem" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixM4wPBIpEQyyORhNfOXtvkDnizi9wbB-9Q&s" width="160" height="84" alt="chill with tech" /></a>
+<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/d9/6f/e9d96fee-29dd-b6f0-60e0-eb020cfa7524/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/246x0w.webp" width="160" height="84" alt="Varemarem" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/varemarem/id6474273062" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixM4wPBIpEQyyORhNfOXtvkDnizi9wbB-9Q&s" width="160" height="84" alt="chill with tech" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=app.kidguru.kidguru" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/bN5DwBBUaradnW6RaMG0mOT8Sk8DqxaLLl0oQ5loRJXEWA89TyGm3sXVI-CPmsqAw8I9=w240-h480-rw" width="160" height="84" alt="Kidguru" />
 </p>
 
 ### Socials
